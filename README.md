@@ -6,8 +6,5 @@
 
 #### Web
 
-[ds theme](https://github.com/daichisugiyama/ds-theme)
+[daichisugiyama - wp theme](https://github.com/daichisugiyama/ds-theme)
 
-#### AWS
-
-[ec2](https://github.com/daichisugiyama/ec2)
