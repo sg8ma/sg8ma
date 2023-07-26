@@ -1,10 +1,10 @@
-### works
+### Works
 
-#### Game
+#### Games
 
 [mugi to dokumugi](https://github.com/daichisugiyama/mugi)
 
-#### Web
+#### Webs
 
-[daichisugiyama - wp theme](https://github.com/daichisugiyama/ds-theme)
+[daichisugiyama.com wp theme](https://github.com/daichisugiyama/ds-theme)
 
