@@ -1,10 +1,12 @@
 ### works
 
-#### Game
+#### 2D Game
+
+[minigames](https://github.com/daichisugiyama/minigames)
 
 [mugi to dokumugi](https://github.com/daichisugiyama/mugi)
 
-#### Web
+#### Website
 
-[daichi sugiyama](https://github.com/daichisugiyama/ds-web)
+[portfolio](https://github.com/daichisugiyama/ds-web)
 
