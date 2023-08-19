@@ -2,7 +2,7 @@
 
 #### 2D Game
 
-[trumpgame (solitaire, poker, blackjack etc)](https://github.com/daichisugiyama/trumpgame)
+[trumpgame](https://github.com/daichisugiyama/trumpgame)
 
 [mugi to dokumugi](https://github.com/daichisugiyama/mugi)
 
