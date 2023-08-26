@@ -1,6 +1,6 @@
 ### works
 
-#### 2d game
+#### 2dgame
 
 [trumpgame](https://github.com/daichisugiyama/trumpgame)
 
