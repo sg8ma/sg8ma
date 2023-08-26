@@ -1,12 +1,12 @@
 ### works
 
-#### 2D Game
+#### 2d game
 
 [trumpgame](https://github.com/daichisugiyama/trumpgame)
 
-[mugi to dokumugi](https://github.com/daichisugiyama/mugi)
+[mugi](https://github.com/daichisugiyama/mugi)
 
-#### Website
+#### website
 
-[portfolio](https://github.com/daichisugiyama/ds-web)
+[entrustee-portfolio](https://github.com/daichisugiyama/entrustee-portfolio)
 
