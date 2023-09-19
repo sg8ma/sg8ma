@@ -1,12 +1,12 @@
-## works
+## Works
 
-### 2dgame
+### 2D Game
 
 [trumpgame](https://github.com/daichisugiyama/trumpgame)
 
 [mugi](https://github.com/daichisugiyama/mugi)
 
-### website
+### Website
 
 [entrust-dev-pf](https://github.com/daichisugiyama/entrust-dev-pf)
 
