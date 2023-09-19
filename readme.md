@@ -6,7 +6,3 @@
 
 [mugi](https://github.com/daichisugiyama/mugi)
 
-### Website
-
-[entrust-dev-pf](https://github.com/daichisugiyama/entrust-dev-pf)
-
