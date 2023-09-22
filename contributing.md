@@ -1,18 +1,15 @@
-# コミットメッセージの書き方
+## コミットメッセージの書き方
 
-## Format
+### Format
 
 コミットメッセージのフォーマットは次の通りです。
 ```
 <type>[optional scope]: <title>
 ```
 
-- type,titleは必須。
-- scopeは任意。
-
 ### type
 
-- prefixとしてコミットの種別を書きます。
+prefixとしてコミットの種別を書きます。
 
 | name | description |
 | --- | ---|
@@ -26,16 +23,16 @@
 
 ### scope
 
-`type` には追加の背景情報を表す `scope` を含むことが出来ます。  
-`scope` は `type` の後に括弧付きで表します。
+`type`には追加の背景情報を表す`scope`を含むことが出来ます。  
+`scope`は`type`の後に括弧付きで表します。
 
 ```
 fix(scope): some message  # passes
 ```
 
 ### title
-`title` は必須であり、命令形・現在系の動詞から始めます（例：'changed' や 'changes' ではなく 'change' から始まります）。  
-コミットメッセージは「何をしたか」を記録するというよりも、「このコミットを適用するとどうなるか」を示す方が望ましいためです。
+
+`title`は必須であり、命令形・現在系の動詞から始めます。  
 
 ```
 fix:               # fails
@@ -43,14 +40,14 @@ fix: Some Message  # passes
 fix: some message  # passes
 ```
 
-なお、`title` の末尾を `.` で終わらせてはなりません。
+`title`の末尾を`.`で終わらせてはなりません。
 
 ```
 fix: some message. # fails
 fix: some message  # passes
 ```
 
-## Reference
+### Reference
 
 - [Gitのコミットメッセージの書き方](https://zenn.dev/itosho/articles/git-commit-message-2023)
 - [コミットメッセージ規約](https://gist.github.com/minop1205/5fc4f6ef0ec89fb1738833ba25ae00a0)
