@@ -1,6 +1,6 @@
-## ブランチの分け方
+## ブランチの分類
 
-ブランチの概要は次の通りです。
+ブランチの一覧は次の通りです。詳細は[Git-Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)に準拠します。
 
 | branch | description | naming conventions |
 | --- | --- | --- |
@@ -10,7 +10,6 @@
 |develop| テスト環境| |
 |features| テスト環境反映 | feature/課題番号など |
 
-詳細は[Git-Flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)に準拠します。
 
 ## コミットメッセージの書き方
 
@@ -67,7 +66,7 @@ fix: some message. # fails
 fix: some message  # passes
 ```
 
-## 参考にさせていただいた
+## 参考
 
 - [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [commitlint](https://github.com/conventional-changelog/commitlint/tree/master/@commitlint/config-conventional)
