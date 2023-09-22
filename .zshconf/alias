@@ -1,0 +1,7 @@
+#!/bin/zsh
+
+alias ls='ls --color'
+alias l='ls --color'
+alias la='ls -a --color'
+alias ll='ls -l --color'
+alias zshrc='source ~/.zshrc'

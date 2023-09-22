@@ -1,0 +1,32 @@
+#!/bin/zsh
+
+#
+# history options 
+#
+HISTFILE=~/.zsh_history
+HISTSIZE=50000
+SAVEHIST=50000
+setopt histignorealldups
+setopt inc_append_history
+setopt sharehistory 
+setopt extended_history
+alias history='history -t "%F %T"'
+alias h='history'
+
+#
+# git
+#
+fpath=(~/.zsh $fpath)
+zstyle ':completion:*:*:git:*' script ~/.zsh/git-completion.bash
+autoload -Uz compinit && compinit
+
+#
+# colors
+#
+autoload -Uz colors
+colors
+
+#
+# system
+#
+export PATH=$HOME/.nodebrew/current/bin:$PATH
