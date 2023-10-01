@@ -25,45 +25,47 @@ Windows 10
 
 ### ソフトウェアのインストール
 
-#### よく使う
+#### よく使うもの
 - Edgeを起動して[Chrome](https://www.google.com/intl/ja/chrome/gsem/download)をインストール
-- [PowerToys Run](https://pc-karuma.net/windows-10-install-powertoys/)
 - [Google日本語入力](https://www.google.co.jp/ime/)
+- [ueli](https://ueli.app/)
+- [Everything](https://forest.watch.impress.co.jp/library/software/everything/)
 - [Discord](https://discord.com/download)
-- [Lhaplus]()
-- [Simplenote]()
+- [7-Zip](https://7-zip.opensource.jp/)
+- [Simplenote](https://simplenote.com/)
+- [Notion](https://www.notion.so/ja-jp/desktop)
   
-#### 個人的に買った
-- [Cubase]()
-- [NativeInstruments]()
-- [VOCALOID Editor]()
-- [AdobeCC]()
+#### 個人的に買ったもの
+- [Cubase](https://www.steinberg.net/ja/cubase/)
+- [NativeInstruments](https://www.native-instruments.com/jp/)
+- [VOCALOID Editor](https://www.vocaloid.com/)
+- [AdobeCC](https://creativecloud.adobe.com/ja-JP/)
   - Acrobat
   - XD
   - PhotoShop
   - AfterEffect
-- [Office]()
+- [Office](https://www.microsoft.com/ja-jp/microsoft-365/microsoft-office)
   - Excel
   - Word
 - [1Password](https://1password.com/jp/downloads/)
 
-#### 開発に使う
+#### 開発に使うもの
 - [VSCode](https://code.visualstudio.com/download)
 - [Docker](https://docs.docker.jp/docker-for-windows/install.html)
 - [WSL2]()
 - [VisualStudio](https://visualstudio.microsoft.com/ja/downloads/)
-- [UnityHub]()
-- [BlenderLauncher]()
-- [WinSCP]()
-- [HeidiSQL]()
-- [Putty]()
-- [Mery]()
+- [UnityHub](https://docs.unity3d.com/ja/2019.4/Manual/GettingStartedInstallingHub.html)
+- [BlenderLauncher](https://dotbow.github.io/Blender-Launcher/)
+- [WinSCP](https://forest.watch.impress.co.jp/library/software/winscp/)
+- [HeidiSQL](https://forest.watch.impress.co.jp/library/software/heidisql/)
+- [Putty](https://www.ranvis.com/putty)
+- [Mery](https://forest.watch.impress.co.jp/library/software/mery/)
 
-#### 趣味
+#### 趣味に使うもの
 
-- [Steam]()
-- [Cluster]()
-- [OBSStudio]()
+- [Steam](https://store.steampowered.com/?l=japanese)
+- [Cluster](https://cluster.mu/)
+- [OBSStudio](https://obsproject.com/ja/download)
 
 ### cmdの設定
 
