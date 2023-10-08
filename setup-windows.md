@@ -51,6 +51,7 @@ Windows 10
 
 #### 開発に使うもの
 - [VSCode](https://code.visualstudio.com/download)
+- [XAMPP](https://www.apachefriends.org/jp/download.html)
 - [Docker](https://docs.docker.jp/docker-for-windows/install.html)
 - [WSL2]()
 - [VisualStudio](https://visualstudio.microsoft.com/ja/downloads/)
@@ -76,7 +77,7 @@ Windows 10
 
 #### Gitを入れる
 
--  [Git for Windows]()をインストールする
+-  [Git for Windows](https://gitforwindows.org/)をインストールする
 
 - git configを設定する
 ```
