@@ -1,8 +1,6 @@
-## Works
+# About me
 
-### 2D Game
+- Name: Daichi Sugiyama
+- Occupation: Web and Game developper
 
-[trumpgame](https://github.com/daichisugiyama/trumpgame)
-
-[mugi](https://github.com/daichisugiyama/mugi)
 
