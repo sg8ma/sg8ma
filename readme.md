@@ -1,6 +1,6 @@
 # About me
 
 - Name: Daichi Sugiyama
-- Occupation: Web and Game developper
+- Occupation: Web and Game developer
 
 
